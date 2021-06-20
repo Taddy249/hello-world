@@ -1,5 +1,13 @@
 # hello-world
 The first repository
-Hi, my name is Taddy249. 
-I'm a student and a newbie in programming. 
 Nice to meet you!
+
+### Todo 20-06
+
+- [ ] **Refactor lai code cua simdb**
+- [ ] Cap nhat 1 mini project len github
+- [ ] English version for landing-page
+- [ ] Trai nghiem nguoi dung voi tool bundle va reward loyalty cua tiem mot
+- [ ] Hoan thanh code tren exercism: javascript & typescript
+- [ ] Duolingo
+- [ ] Note lai gio lam viec cho Tiem-mot
